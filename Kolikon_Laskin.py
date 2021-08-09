@@ -23,7 +23,6 @@ def prints(str):
     else:
         print(str)
 
-prints('hello world')
 
 # Finding the newest file
 prints("Paina 1, jos haluat automaattisen tiedoston etsinnän. Paina 2 jos haluat syöttää itse tiedoston sijainin.\n")
